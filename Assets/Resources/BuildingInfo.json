@@ -1,0 +1,10 @@
+{
+    "buildings": [
+      {
+      "Id": "LIB_F1",         
+      "Buildingname":"Library",
+      "description": "Enjoy our bright, modern, technologically-enabled environment with spaces to suit all learning styles. We offer places for group work and discussion, individual and silent study areas",
+      "image":"library" 
+      }
+    ]
+}
